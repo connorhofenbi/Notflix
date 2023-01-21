@@ -1,2 +1,2 @@
 # Notflix
-To learn / show some new skills, I wanted to make a project that uses microservices
+To learn / show some new skills, I wanted to make some project that uses cdk
